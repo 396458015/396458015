@@ -11,8 +11,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/396458015/count.sv
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=396458015&show_icons=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=396458015&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=396458015&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
+
 
 <!-- <div align="center">                                                                               -->
 <!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=396458015&theme=dark" />   -->
