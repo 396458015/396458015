@@ -32,10 +32,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/396458015/count.sv
 
 
 
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=396458015" /> </div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=396458015&theme=vue)](https://github.com/396458015/github-readme-activity-graph)
 
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=396458015" /> </div>
