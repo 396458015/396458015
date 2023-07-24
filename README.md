@@ -14,7 +14,6 @@
 </a>
 
 
-
 <!-- <div align="center">                                                                               -->
 <!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=396458015&theme=dark" />   -->
 <!-- </div>                                                                                             -->
@@ -32,6 +31,4 @@
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=dracula" />
-</div>
+
