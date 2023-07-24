@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/396458015/count.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/396458015/396458015/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/396458015/396458015/output/github-contribution-grid-snake.svg">
