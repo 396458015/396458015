@@ -6,8 +6,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/396458015/count.sv
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/396458015/396458015/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=396458015&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -34,6 +32,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/396458015/count.sv
 
 
 
+
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=396458015" /> </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=396458015&theme=vue)](https://github.com/396458015/github-readme-activity-graph)
 
 
